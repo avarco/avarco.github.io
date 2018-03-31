@@ -3,7 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://avarc.co/blog/how-to-buy/</loc>
+      <lastmod>2018-03-31T21:09:09+03:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://avarc.co/blog/avc-ico-launch/</loc>
+      <lastmod>2018-03-31T21:06:09+03:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://avarc.co/about/</loc>
+      <lastmod>2018-03-21T16:22:15+03:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://avarc.co/</loc>
+      <lastmod>2018-03-31T21:09:09+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+      <loc>https://avarc.co/blog/</loc>
+      <lastmod>2018-03-31T21:09:09+03:00</lastmod>
       <priority>0</priority>
     </url>
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on AVARC</title>
+    <link>https://avarc.co/gallery/</link>
+    <description>Recent content in Galleries on AVARC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Mar 2018 20:31:46 +0300</lastBuildDate>
+    
+	<atom:link href="https://avarc.co/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AVARC Whitepaper</title>
+      <link>https://avarc.co/gallery/avc-whitepaper/</link>
+      <pubDate>Sat, 31 Mar 2018 20:31:46 +0300</pubDate>
+      
+      <guid>https://avarc.co/gallery/avc-whitepaper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

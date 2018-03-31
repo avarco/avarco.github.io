@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AVARC</title>
-    <link>https://avarc.co/</link>
-    <description>Recent content on AVARC</description>
+    <title>Blogs on AVARC</title>
+    <link>https://avarc.co/blog/</link>
+    <description>Recent content in Blogs on AVARC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Mar 2018 21:09:09 +0300</lastBuildDate>
     
-	<atom:link href="https://avarc.co/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://avarc.co/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,24 +27,6 @@
       
       <guid>https://avarc.co/blog/avc-ico-launch/</guid>
       <description>There is currently no effective marketplace for creatives in the sports apparel market segment. Indeed, incumbents such as Nike, Adidas, Under Armour, Asics among others control not only their designs and quality of sports apparel and ensemble but also dictate what markets they serve, at what price points. In so doing, low and mid income groups in the developed world and emerging markets are excluded. Unserved markets end up with not only used and environmentally unfriendly material but also cheap and low-quality knock-offs.</description>
-    </item>
-    
-    <item>
-      <title>AVARC Whitepaper</title>
-      <link>https://avarc.co/gallery/avc-whitepaper/</link>
-      <pubDate>Sat, 31 Mar 2018 20:31:46 +0300</pubDate>
-      
-      <guid>https://avarc.co/gallery/avc-whitepaper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://avarc.co/about/</link>
-      <pubDate>Wed, 21 Mar 2018 16:22:15 +0300</pubDate>
-      
-      <guid>https://avarc.co/about/</guid>
-      <description>The world’s largest sports apparel and equipment makers run large closed and proprietary systems. They have absolute control over their value chains; from design, prices, and what markets they serve. While this control is standard practice for the co-op, it excludes users with incredible and extra creative power from participating in value creation and also excludes those in unserved markets, especially in emerging economies.</description>
     </item>
     
   </channel>
